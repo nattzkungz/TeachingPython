@@ -70,7 +70,9 @@ def fileOutput(data, t):
         file = open("empname.txt", "w")
 
     for i in data:
-        file.write("{0:20}{1:5}   {2:10}{3:5}{4}\n".format(i,data[i][0],data[i][1],data[i][2],data[i][3]))
+        # file.write("{0:20}{1:5}   {2:10}{3:5}{4}\n".format(i,data[i][0],data[i][1],data[i][2],data[i][3]))
+        file.write(f"{i:20}{data[i][0]:5}   {data[i][1]:15}{data[i][2]}     ${data[i][3]}\n")
+        print(data[i][3])
 
 fileOutput(fyr,1)
 fileOutput(fage,2)
