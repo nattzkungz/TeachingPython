@@ -1,0 +1,6 @@
+Henry Adams         1400.0   programmer   3036400.00
+Susan Computewell   1600.0   analyst      3341600.00
+Denny Dibblebit     1800.0   architect    5646800.00
+Jim Jones           2200.0   CFO          4557200.00
+Frank Smith         1200.0   helpdesk     2631200.00
+Suzanne Sommers     2600.0   CEO          5367600.00
