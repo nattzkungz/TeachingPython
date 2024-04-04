@@ -1,0 +1,50 @@
+Lion
+Tiger
+Elephant
+Giraffe
+Zebra
+Gorilla
+Bear
+Wolf
+Fox
+Deer
+Rabbit
+Kangaroo
+Hippopotamus
+Rhino
+Cheetah
+Leopard
+Jaguar
+Panther
+Cougar
+Lynx
+Hyena
+Monkey
+Chimpanzee
+Orangutan
+Baboon
+Sloth
+Koala
+Panda
+Red panda
+Polar bear
+Grizzly bear
+Black bear
+Panda bear
+Dolphin
+Whale
+Shark
+Octopus
+Squid
+Jellyfish
+Starfish
+Seahorse
+Crab
+Lobster
+Shrimp
+Turtle
+Frog
+Toad
+Salamander
+Newt
+Snake
