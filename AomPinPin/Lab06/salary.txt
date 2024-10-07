@@ -1,6 +1,0 @@
-Frank Smith         1200.0   helpdesk       26     $31200.00
-Henry Adams         1400.0   programmer     30     $36400.00
-Susan Computewell   1600.0   analyst        33     $41600.00
-Denny Dibblebit     1800.0   architect      56     $46800.00
-Jim Jones           2200.0   CFO            45     $57200.00
-Suzanne Sommers     2600.0   CEO            53     $67600.00

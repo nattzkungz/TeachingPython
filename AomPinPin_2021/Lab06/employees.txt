@@ -1,0 +1,6 @@
+Henry,Adams,1400,programmer,30
+Susan,Computewell,1600,analyst,33
+Denny,Dibblebit,1800,architect,56
+Jim,Jones,2200,CFO,45
+Frank,Smith,1200,helpdesk,26
+Suzanne,Sommers,2600,CEO,53
