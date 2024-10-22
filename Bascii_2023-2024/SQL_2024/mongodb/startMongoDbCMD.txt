@@ -1,0 +1,1 @@
+mongod --dbpath /Users/thanakrittr/Documents/mongodb/data --logpath /Users/thanakrittr/Documents/mongodb/logs/mongo.log 
