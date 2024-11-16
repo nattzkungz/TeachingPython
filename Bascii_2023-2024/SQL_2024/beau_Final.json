@@ -1,0 +1,14 @@
+[
+    {
+        "author_fname":"jedi",
+        "author_lname":"beau",
+        "totale_sale":3,
+        "quantity":4
+    },
+    {
+        "author_fname":"gp",
+        "author_lname":"jedi",
+        "total_sale":5,
+        "quantity":6
+    }
+]
